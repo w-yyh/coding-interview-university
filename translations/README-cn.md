@@ -422,7 +422,7 @@
         - 问题答案
 
 - [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=XM4lGflQFvA)
     - [ ] [计算机如何计算（视频）](https://youtu.be/1I5ZMmrOfnA)
     - [ ] [寄存器和内存（视频）](https://youtu.be/fpnE6UAfbtU)
     - [ ] [中央处理单元（视频）](https://youtu.be/FZGugFqdr60)
